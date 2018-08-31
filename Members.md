@@ -6,7 +6,7 @@
 | [PS88](https://github.com/Potatoshare88) | Leader | 3 |
 | [NLOG](https://github.com/nnnlog) | assistant manager | 3 |
 | [alvin0319](https://github.com/alvin0319) | Member | 3 |
-| [¿Õ°í½¿µµÄ¡](https://github.com/djdisodo) | Member | 3 |
+| [ì™•ê³ ìŠ´ë„ì¹˜](https://github.com/djdisodo) | Member | 3 |
 | [FreeShareJ](https://github.com/FreeShareJ) | Member | 3 |
 | [Hyide](https://github.com/Hyide) | Member | 3 |
 | [SeRiSK](https://github.com/SeRiSK) | Member | 3 |
