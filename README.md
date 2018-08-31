@@ -9,7 +9,7 @@ About JustD01t
 
 ### 규칙
 
-규칙으로 가보기
+[규칙으로 가보기](https://github.com/JustD01t/Office/blob/master/Rules.md)
 
 
 ### 코리아크래프트 사설팀 관련
