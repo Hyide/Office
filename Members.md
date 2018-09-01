@@ -8,7 +8,7 @@
 | [alvin0319](https://github.com/alvin0319) | Member | 3 |
 | [왕고슴도치](https://github.com/djdisodo) | Member | 3 |
 | [FreeShareJ](https://github.com/FreeShareJ) | Member | 3 |
-| [Hyide](https://github.com/Hyide) | Member | 3 |
+| [Uree](https://github.com/Hyide) | Member | 1 |
 | [SeRiSK](https://github.com/SeRiSK) | Member | 3 |
 | [VVSONIC14VV](https://github.com/VVSONIC14VV) | Member | 3 |
 | [WhiteJing](https://github.com/WhiteJing) | Member | 3 |
