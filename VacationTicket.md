@@ -5,6 +5,8 @@
 | Name | Reason | When |
 |:-----:|:-----:|:------:|
 | Example | I need to prepare for test | 24 / 09 / 2018 |
+|:-----:|:-----:|:------:|
+| Uree | I need to prepare for test | 1~22 / 09 / 2018 |
 
 
 ## Ticket Provide History
